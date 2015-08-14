@@ -48,7 +48,7 @@ public class AppGUI extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setText("Exportar");
+        jButton1.setText("Export");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
