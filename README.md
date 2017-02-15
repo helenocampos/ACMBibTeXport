@@ -1,3 +1,6 @@
+-------------------------- OUTDATED, the website now has its own mechanism to export papers' bibtex file. ---------------
+
+
 # ACMBibTeXport
 Simple and crude app to export ACM reference results to a BibTeX file.
 
